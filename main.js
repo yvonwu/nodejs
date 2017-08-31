@@ -9,3 +9,4 @@ fs.readFile('package.json', function (err, data) {
 });
 
 console.log("code stop");
+console.log("new line");
